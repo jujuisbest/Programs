@@ -1,2 +1,5 @@
 # Programs
-Anagram
+JavasscriptProgram
+Anagram using javascript
+Three sum using javscript
+
